@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Introduction]
 
-@snap[west text-25 text-bold text-white]
+@snap[west text-18 text-bold text-white]
 Web Application Development Tools<br>*Module Induction & Introduction to C# and Git*
 @snapend
 
