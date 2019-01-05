@@ -2,7 +2,7 @@
 @title[Introduction]
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+Web Application Development Tools<br>*Module Induction & Introduction to C# and Git*
 @snapend
 
 @snap[south-west byline text-white text-06]
